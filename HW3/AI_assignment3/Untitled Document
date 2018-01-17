@@ -1,0 +1,9 @@
+3a: python2 gridworld.py -a value -g DiscountGrid --discount 0.1 --noise 0. --livingReward 0.8
+
+3b: python2 gridworld.py -a value -g DiscountGrid --discount 0.3 --noise 0.1 --livingReward 0.1
+
+3c: python2 gridworld.py -a value -g DiscountGrid --discount 0.7 --noise 0 --livingReward 2
+
+3d: python2 gridworld.py -a value -g DiscountGrid --discount 0.9 --noise 0.3 --livingReward 1
+
+3e: python2 gridworld.py -a value -g DiscountGrid --discount 0.1 --noise 0.2 --livingReward 0
